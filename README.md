@@ -1,0 +1,4 @@
+togglechecked
+=============
+
+toggleChecked jQuery function
